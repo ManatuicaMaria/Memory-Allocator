@@ -1,6 +1,6 @@
 CC = gcc
 CFLAGS = -Wall -lm
-SRC = tema4.c 
+SRC = MemoryAllocator.c 
 EXE = allocator
 
 build:
